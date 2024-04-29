@@ -1,0 +1,15 @@
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\bin\Debug\net6.0\Jogo_BingoV8.exe
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\bin\Debug\net6.0\Jogo_BingoV8.deps.json
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\bin\Debug\net6.0\Jogo_BingoV8.runtimeconfig.json
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\bin\Debug\net6.0\Jogo_BingoV8.dll
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\bin\Debug\net6.0\Jogo_BingoV8.pdb
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.AssemblyInfoInputs.cache
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.AssemblyInfo.cs
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.sourcelink.json
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.dll
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\refint\Jogo_BingoV8.dll
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.pdb
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\Jogo_BingoV8.genruntimeconfig.cache
+C:\Users\ADM\Tarefas_de_19_04\Jogo_BingoV8\Jogo_BingoV8\obj\Debug\net6.0\ref\Jogo_BingoV8.dll
